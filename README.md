@@ -6,3 +6,6 @@
 ## Hobby
 - listening to music
 
+## Favorite Food
+- Chicken
+- Buldak stir-fried noodles
